@@ -1,0 +1,13 @@
+two ways to upload folder (i.e. 'new' folder) on github
+
+first thing is to initialize git with cmd 
+   as it is reuiqred for git to know the user name 
+command : git config --global user.name "userNAME" and user.email "userMAIL"
+
+then  
+
+// first way 
+1. Go inside the folder which have to be pushed in command then execute the git commands
+make repository on github without readme tick
+which shows some commands to follow 
+ just add an extra command after 'add README' that is "git add ."
