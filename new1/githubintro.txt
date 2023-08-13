@@ -11,3 +11,5 @@ then
 make repository on github without readme tick
 which shows some commands to follow 
  just add an extra command after 'add README' that is "git add ."
+
+  atlast reload the githubb page
